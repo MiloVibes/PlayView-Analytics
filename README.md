@@ -1,0 +1,2 @@
+# PlayView Analytics
+ A project focused on creating a database to store and analyze game data from Steam. Utilizing the Steam Spy API, the project gathers information such as game titles, sales figures, reviews, and player statistics to help gamers, streamers, and content creators make informed decisions. The project employs tools like MySQL, Python, and SQLAlchemy for data processing and management.
